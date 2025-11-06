@@ -1,5 +1,5 @@
 ---
-title: "React Router v7 middleware を Vercel で使う (v7.9安定化版)"
+title: "React Router v7 middleware を Vercel で使う (v7.9移行)"
 emoji: "🐙"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [reactrouter, vercel]
